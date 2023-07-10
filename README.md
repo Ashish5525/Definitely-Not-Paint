@@ -1,5 +1,5 @@
 # Paint
-A simple paint application where the user can draw basic shapes, move the around and paint them.
+A simple paint application where the user can draw basic shapes, move them around and paint them.
 
 # What I Learned
 * Gain experience with advanced GUIs and graphics
